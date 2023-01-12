@@ -12,3 +12,19 @@ body{
     justify-content: center;
     align-items: center;
 }
+
+.hex-colors{
+    text-align: center;
+}
+
+.hex-colors h1{
+    font-size: 2rem;
+    text-transform: uppercase;
+    animation: changecolor 5s infinite alternate;
+}
+
+.hex-colors h2{
+    font-size: 2rem;
+    margin-top: 15%;
+}
+
