@@ -52,3 +52,9 @@ body{
     }
 
 }
+
+@media(max-width:480px){
+    .hex-colors h1{
+        
+    }
+}
