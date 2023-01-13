@@ -25,7 +25,7 @@ function changeColors(){
 
 //function changeColors(){
 //    var colors = [
-//        "red","blue", "orange", "yellow", "green", "purple"];
+//        "red","blue", "orange", "yellow", "green", "purple"];ttb
 //Array of colors        
     
  //   document.getElementsByTagName("body")[0].style.background = colors[index++];
